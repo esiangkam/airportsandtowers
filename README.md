@@ -1,6 +1,7 @@
 # Airports and Air Traffic Control Towers in the United States
 
 ![Map Screenshot](img/map.png)
+<p style="text-align: center;">View the map at https://esiangkam.github.io/airportsandtowers/index.html </p>
 
 ## Introduction
 This project provides a visualization of airports located throughout the United States, as well as where air traffic control towers are and are not located. It becomes apparent that most areas that have both a higher number of airports and air traffic control towers are correlated with a higher population of people.
